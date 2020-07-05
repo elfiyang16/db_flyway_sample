@@ -2,9 +2,6 @@
 
 This is an easy example how to create database migrations with [Flyway](http://flywaydb.org/)
 
-Please note that more information is given in the related blog articles on the topic:
-[Managing Database Migrations](https://blog.codecentric.de/en/2017/01/flyway-tutorial-managing-database-migrations/) and [Execute Migrations using Maven](https://blog.codecentric.de/en/2017/01/flyway-tutorial-execute-migrations-using-maven/)
-
 It is based on PostgreSQL database and should run right away after checking it out,
 if your postgres-server is up and running. You might need to add password to the
 create- and drop-scripts depending on your database configuration for the postgres-user.
